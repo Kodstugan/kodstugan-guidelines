@@ -1,4 +1,4 @@
-# kodstugan-guidelines
+# Kodstugan - Guidelines
 
 ## git
 
