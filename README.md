@@ -15,7 +15,7 @@ We use CamelCase if no other convention is specified.
 
 ### Branches
 It is **strictly forbidden** to push to master. If this is bypassed you will automatically be kicked and banned for life.
-Whenever you do a change to this repo you should do it by using **pull requests**, if possible assign a current issue in your PR message and it will be automatically closed once the PR is approved.
+Whenever you do a change to a repo you should do it by using **pull requests**, if possible assign a current issue in your PR message and it will be automatically closed once the PR is approved.
 ```shell
 closes #1 // will automatically close issue #1 on approval
 ```
