@@ -24,9 +24,9 @@ misc/logo-update
 ### Commits
 Commit often, a rule of thumb is if you can write a sentence about what you've done so far it's worth to make it into a commit.
 
-## javascript
+## Javascript
 
-### variables
+### Variables
 We only use **let** and **const** variables. People who use **var** will automatically be kicked and banned for life.
 ```
 let isRaining = true // re-assignable, although it wont change often in Sweden...
