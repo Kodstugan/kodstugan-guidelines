@@ -1,5 +1,3 @@
-# kodstugan-guidelines
-
 ## Language
 
 We use **English** on everything related to code and git.
