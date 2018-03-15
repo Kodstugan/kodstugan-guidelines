@@ -1,4 +1,4 @@
-## Language
+# Language
 
 We use **English** on everything related to code and git.
 ```javascript
@@ -6,10 +6,10 @@ function hamtaDataFranJSON() {} // don't ever do this
 function fetchJSON() {} // do this
 ```
 
-## CamelCase
+# CamelCase
 We use CamelCase if no other convention is specified.
 
-## git
+# git
 
 ### Branches
 It is **strictly forbidden** to push to master. If this is bypassed you will automatically be kicked and banned for life.
@@ -33,7 +33,7 @@ misc/logo-update
 ### Commits
 Commit often, a rule of thumb is if you can write a sentence about what you've done so far it's worth to make it into a commit.
 
-## Javascript
+# Javascript
 
 ### Variables
 We only use **let** and **const** variables. People who use **var** will automatically be kicked and banned for life.
